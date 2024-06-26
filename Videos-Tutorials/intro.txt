@@ -1,1 +1,0 @@
-Just created this to get link so that i can generate QR code.
